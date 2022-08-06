@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "landmarks-summary",
+  "private_key_id": "a67182f0db84a2e4454b1996355e893b7f9d9808",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDfOPwvjZYRpTxT\nJbMLBT0A0HnxSfqSn3Q1AJOiMXHy7k3fjSPetWLtj93GZ5ODh1xSL0udyvLn06Dx\nkbijEFqmDngwlRWVQuVLknhkCAoma9AqnW8jg4U6wH4rBy2djmubWFkcFvzXDxlJ\nwlukLlnJgkqXDWjv2gvQuORraI92H0PafthAsH5r73t/+S9NXG2/u16YzqXAqoHG\nMUy6zlsbuFntbQrm08HBFOuswA9ObvEJRmG17jRYNKSSzvXf2GGCFsCTdobAVj9b\npt3PKwy9u4jo03yIXaNZ+jrtgQSRfp3MnEX1wnB7Io74Ra3Z2l/vE9rMlK+nMlqE\n8TVN6IgLAgMBAAECggEABx+nf9nMnMQUpDoe+BcQ1si/W39j07y3xKth6J6kZzr1\nQ+qz1dByeaP06tUS1J3dhKUdNw5RqRouhtPX84kL8N4KJTgYgH//n7INM+pu1UqG\nuEiiuGlJSIEblrnO2g+M807aejicP/lFPzHiRPCn3nyM5m9MuK4EcfpfOE03zTtO\nIxn/a1Olwagc1gFAqU3xiYbRQEPkajbn0PFvg92Vgyet/XXo5xCOh14h9V5bZE1D\necvR3L8Xlr9Q2BKuJ2Sipzracs4E1mr9FqTIW16FcqF9S5jdMAqcCM94LYBHdMbq\nCJR2Bj74x61LTptJuWvyc9340pw416V+iQjx9f1sAQKBgQDzYKhewCuBzf3dP6Nm\nTAgkX77fjEkEHW0naTRl4paYlk/1V/v4vQAYy+OF38y59j3p0RsFmFAwOLZBynBM\nFd6atRse/8VR2zGxciWHpOXkxLfU3ZZNcIqcW4Ipd1DoxBQpJqOr2jvoNSKiAcRA\n4gSyuTulDaId0F2MwpYDqTPDiwKBgQDqzLp0R9bQjkarDGB1bRVVjKkWBqMnNMTr\n/ckLiVquB8JGg0XstAtQHpDGN3NjHqn0wxNxhh0LeHFY1jwmlMoIt/Dyttqr2WF9\nS0u7hzRgdoy0buMyHaBke3pUfAo57lI3/7A+1ux1HZkRqb5j8A63DtHbyFFsxo0m\n2iZGoYzdgQKBgGTeWKn8h4ui7mZ2a6iINo+sxxUrtU9pSsYcykS35qaTFcyfjKUI\n4DNmvYPMv7MLJZn0unhVKlbyCke2OVivb7U6/mSYqRVF/ZCHuJpBc66fAXnN5O9v\nh2NKYeYBt5zhN2Hey9L7/fw9mX7/sHEbu8q/DsNXpSsqIrumIjqeNAAFAoGAO2tN\n8ClR8nte5OB/9JeDY5/yFlHdrglLoFEcNKAw44OxJXkJFArIJiFmD9NujvHunrNT\nU1JWPVXgkVO96yGSMzyhbDrcActEQZnxc2aW2aaGmw7IziDzOxqIbaLqT5jBE8zQ\nBEcNleHEn9SuCspwXuEQOKdr+7QPenqQXyV46YECgYEA0+aPcNRokLdJQQDlbAg0\nCTZdCirlmt/htQ95NV3CCtbAm71Gs5oJ+NrZ2YUUwNgiWfNo+qboNW+vFRAJlv3L\nnQL0P3rFVXSUffJOXkMz9o7U6IDIhHZ5bHVkpl2uRnJCmjIttX4uorUh4rzPI2jg\nWZ4jdc08S6V9GmNl8rU7x+s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "landmarkssummary@landmarks-summary.iam.gserviceaccount.com",
+  "client_id": "110128183206797134042",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/landmarkssummary%40landmarks-summary.iam.gserviceaccount.com"
+}
